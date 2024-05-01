@@ -15,7 +15,6 @@ This system provides a streamlined solution for managing hotel room reservations
 * **Guest Information:** Securely store guest details (name, contact information, preferences).
 * **Booking Calendar:** Visualize bookings with a comprehensive calendar view.
 * **Reporting:** Generate reports on occupancy rates, revenue, and guest demographics. 
-* **Payment Integration (Optional):** Integrate with a payment gateway to process online bookings.
 
 
 
